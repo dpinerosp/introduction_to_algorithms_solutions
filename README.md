@@ -1,2 +1,4 @@
 # introduction_to_algorithms_solutions
-Introduction to Algorithms. Third Edition.
+Code solutions for the book Introduction to Algorithms. Third Edition.
+
+
